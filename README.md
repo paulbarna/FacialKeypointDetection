@@ -92,4 +92,4 @@ jupyter notebook
 
 __NOTE:__ While some code has already been implemented to get you started, you will need to implement additional functionality and answer all of the questions included in the notebook. __Unless requested, it's suggested that you do not modify code that has already been included.__
 
-[Project Presentation](./images/Udacity_Reviews.pdf "Udacity Reviews")
+[Review Notes](./images/Udacity_Reviews.pdf "Udacity Reviews")
